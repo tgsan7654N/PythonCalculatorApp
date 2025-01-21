@@ -16,7 +16,7 @@ setup(
     description="A simple PyQt5-based calculator app",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/tgsan/calculator_package",
+    url="https://github.com/tgsan7654N/calculator_package",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: GPL 3",
